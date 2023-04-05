@@ -9,5 +9,9 @@
 * Soy de boquita.
 * Aveces trato de comer ¿¿sano?? pero el chocolate se interpone en mi camino.
 
+
+
+
+
 * :point_right: Mi nombre completo es Luis Gonzalo Fernandez Bogarin. 
 * :point_right: Legajo: 208.736-4
