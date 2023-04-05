@@ -15,6 +15,3 @@
 * :point_right: Mi nombre completo es Luis Gonzalo Fernandez Bogarin. 
 * :point_right: Legajo: 208.736-4 <br> <br>
 
-# Prueba Visual Studio
-
- *esta es una prueba de vida o muerte. tratese con cuidado.*
